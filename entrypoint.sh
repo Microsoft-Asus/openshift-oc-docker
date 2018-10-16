@@ -14,3 +14,6 @@ echo "$output"
 #cp -r /root/.kube "${HOME}/.kube"
 
 ls -la /root/
+ls -la /home/
+ls -la /github/
+echo "$HOME"
